@@ -1,8 +1,8 @@
-# youtube-downloader
+#  youtube-downloader
 ##🎥 YouTube Video Downloader
 ##🚀 A powerful, Python-based desktop application for downloading YouTube videos in HD, SD, or MP3 format. Includes an intuitive graphical interface built with PyQt5 and seamless integration with yt-dlp.
 
-##🔥 Features
+## 🔥 Features
 ✅ Multiple Download Options:
 
 - HD Quality (Video + Audio)
