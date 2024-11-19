@@ -154,7 +154,7 @@ Here’s a GitHub-friendly README.md with hashtags, markdown styling, and a clea
 - ✅ Customizable Save Path: Choose where to save your downloads.
 
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 - Python: Core language.
 - PyQt5: For the graphical interface.
 - yt-dlp: Advanced YouTube video/audio downloader.
